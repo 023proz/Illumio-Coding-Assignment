@@ -26,6 +26,9 @@
  
  # About the team
  I am interested in all of the teams that Illumio has, if I had to rank them, I'd choose:
+ 
     1.Platform
+    
     2.Policy
+    
     3.Data
